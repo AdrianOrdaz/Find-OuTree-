@@ -127,7 +127,7 @@ window.initMap = initMap;
       for more information.
       -->
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDdG1GC0tad8uTf4ujOjM1rXm0TM-L6vrA&callback=initMap&libraries=places&v=weekly"
+      
       defer
     ></script>
   </body>
